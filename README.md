@@ -1,6 +1,6 @@
 # CNAPP Dashboard
 
-This project is a dynamic dashboard application built with React, Redux Toolkit, and Tailwind CSS. It allows users to visualize and manage widgets within different categories.
+This project is a versatile dashboard platform crafted using React, Redux Toolkit, and Tailwind CSS. It enables users to visualize and manage various widgets categorized into different sections for a seamless experience.
 
 ## Check Live Demo
 
