@@ -4,7 +4,7 @@ This project is a versatile dashboard platform crafted using React, Redux Toolki
 
 ## Check Live Demo
 
-Explore the live demo of the CNAPP Dashboard: [CNAPP Dashboard](https://cnapp-dashboard1.netlify.app/)
+Explore the live demo of the CNAPP Dashboard: [CNAPP Dashboard](https://cnapp-dashboard-iota.vercel.app/)
 
 ## Features
 
