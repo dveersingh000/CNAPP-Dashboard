@@ -4,7 +4,7 @@ This project is a versatile dashboard platform crafted using React, Redux Toolki
 
 ## Check Live Demo
 
-You can check the live version of the project here : [CNAPP Dashboard](https://cnapp-dashboard1.netlify.app/)
+Explore the live demo of the CNAPP Dashboard: [CNAPP Dashboard](https://cnapp-dashboard1.netlify.app/)
 
 ## Features
 
@@ -32,47 +32,43 @@ You can check the live version of the project here : [CNAPP Dashboard](https://c
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/rd273001/CNAPP-Dashboard.git
+   git clone https://github.com/dveersingh000/CNAPP-Dashboard.git
    cd CNAPP-Dashboard
    ```
 
 2. **Install dependencies:**
    Using npm: ```npm install```
-   OR
-   Using yarn: ```yarn```
 
 3. **Start the application:**
    Using npm: ```npm run dev```
-   OR
-   Using yarn: ```yarn dev```
 This will start the development server and make the application available at <http://localhost:3000> in your default web browser.
 
-## Usage
+## Usage Instructions
 
-1. **Adding Widgets:**
+1. **Adding New Widgets:**
 
-   - Click the "Add Widget" button on a category card or the "Add Widget" button in the header.
-   - Fill in the widget details in the modal and click "Add Widget".
+   - Click on the "Add Widget" button within a category card or in the main header.
+   - Fill in the widget details within the modal and hit "Add Widget".
 
 2. **Filtering Widgets:**
 
-   - Use the search bar in the header to filter widgets by name.
+   - Use the search functionality in the header to filter widgets by their name.
 
 3. **Deleting Widgets:**
 
-   - Click the "Delete" button on a widget card.
-   - Confirm the deletion in the modal.
+   - Press the "Delete" button on any widget card.
+   - Confirm the deletion action through the modal.
 
 ## Future Enhancements
 
-- **Widget Customization:** Allow users to customize widget appearance and data displayed.
+- **Widget Customization:** Introduce features to customize the look and data of widgets.
 
-- **Data Persistence:** Implement data storage to save dashboard configurations.
+- **Data Persistence:** Implement storage to save and retrieve dashboard configurations.
 
-- **User Authentication:** Add user accounts and role-based access control.
+- **User Authentication:** Add user management and role-based access control.
 
-- **More Widget Types:** Introduce a wider variety of widgets for different data visualizations.
+- **More Widget Types:** Introduce additional widget types for diverse data visualization needs.
 
 ## Contribution
 
-Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
+We welcome contributions! Feel free to open an issue or submit a pull request with your ideas or improvements.
